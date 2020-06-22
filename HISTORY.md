@@ -1,3 +1,7 @@
+## 2.2.0 (2020-06-16)
+
+* Support any version of Redis before 4.0
+
 ## 2.1.0 (2020-06-08)
 
 * Support redis < 3.1
